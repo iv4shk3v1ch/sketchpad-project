@@ -3,10 +3,7 @@ An interactive web-based drawing application that combines elements of a sketchp
 
 # Sketchpad / Etch-A-Sketch Project
 
-<img width="1920" height="1180" alt="sketchpadProject_screenshot" src="https://github.com/user-attachments/assets/31266841-a731-4164-b493-7fd3ee6c2427" />
-
-
-An interactive web-based drawing application that combines elements of a sketchpad and Etch-A-Sketch, built with vanilla JavaScript, HTML, and CSS Flexbox.
+<img width="1920" height="1141" alt="sketchpadProject_screenshot" src="https://github.com/user-attachments/assets/e0ea57e2-9922-43b9-9031-0919bfe7ea76" />
 
 ## Features
 
